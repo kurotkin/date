@@ -1,7 +1,50 @@
 <OpTasks>
   <OpTask>
-    <NumTask>
-    
-    <\NumTask>
+    <CodeSAP>7000063951<\CodeSAP>
+    <TypeOp>УО<\TypeOp>
+    <Number>00-00173876<\Number>
+    <CreateDate>28.05.2018<\CreateDate>
+    <DeadlineDate>28.05.2018<\DeadlineDate>
+    <PlaceCodeSAP>5682-MTBEX<\PlaceCodeSAP>
+    <PlaceName>АВТ-6 Установка атмосферно-вакуумная<\PlaceName>
+    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2<\TechPlaceCodeSAP>
+    <TechPlaceName>TA437-2 Температура в Р-201 зона 2<\TechPlaceName>
+    <Autor>Иванов С.А.<\Autor>
+    <Performer>Петров В.В.<\Performer>
+    <Phone>30-75<\Phone>
+    <Description>Описание…<\Description>
+    <Priority>Высокий<\Priority>
+  <\OpTask>
+  <OpTask>
+    <CodeSAP>7000063952<\CodeSAP>
+    <TypeOp>УО<\TypeOp>
+    <Number>00-00173877<\Number>
+    <CreateDate>28.05.2018<\CreateDate>
+    <DeadlineDate>29.05.2018<\DeadlineDate>
+    <PlaceCodeSAP>5682-MTBEX<\PlaceCodeSAP>
+    <PlaceName>АВТ-6 Установка атмосферно-вакуумная<\PlaceName>
+    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2<\TechPlaceCodeSAP>
+    <TechPlaceName>TA437-2 Температура в Р-201 зона 2<\TechPlaceName>
+    <Autor>Иванов С.А.<\Autor>
+    <Performer>Петров В.В.<\Performer>
+    <Phone>30-75<\Phone>
+    <Description>Описание…<\Description>
+    <Priority>Высокий<\Priority>
+  <\OpTask>
+  <OpTask>
+    <CodeSAP>7000063953<\CodeSAP>
+    <TypeOp>УО<\TypeOp>
+    <Number>00-00173877<\Number>
+    <CreateDate>28.05.2018<\CreateDate>
+    <DeadlineDate>29.05.2018<\DeadlineDate>
+    <PlaceCodeSAP>5682-MTBEX<\PlaceCodeSAP>
+    <PlaceName>АВТ-6 Установка атмосферно-вакуумная<\PlaceName>
+    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2<\TechPlaceCodeSAP>
+    <TechPlaceName>TA437-2 Температура в Р-201 зона 2<\TechPlaceName>
+    <Autor>Иванов С.А.<\Autor>
+    <Performer>Петров В.В.<\Performer>
+    <Phone>30-75<\Phone>
+    <Description>Описание…<\Description>
+    <Priority>Высокий<\Priority>
   <\OpTask>
 <\OpTasks>
