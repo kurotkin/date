@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpTasks>
   <OpTask>
-    <CodeSAP>7000063951</CodeSAP>
+    <CodeSAP>1235663951</CodeSAP>
     <TypeOp>УО</TypeOp>
     <Number>00-00173876</Number>
     <CreateDate>28.05.2018</CreateDate>
     <DeadlineDate>28.05.2018</DeadlineDate>
-    <PlaceCodeSAP>5682-MTBEX</PlaceCodeSAP>
+    <PlaceCodeSAP>1234-GFRTY</PlaceCodeSAP>
     <PlaceName>АВТ-6 Установка атмосферно-вакуумная</PlaceName>
-    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2</TechPlaceCodeSAP>
-    <TechPlaceName>TA437-2 Температура в Р-201 зона 2</TechPlaceName>
+    <TechPlaceCodeSAP>1234-GFRTY-KIPAT-TA437_2</TechPlaceCodeSAP>
+    <TechPlaceName>TA437-2 Температура в РKL-201 зона 2</TechPlaceName>
     <Autor>Иванов С.А.</Autor>
     <Performer>Петров В.В.</Performer>
     <Phone>30-75</Phone>
     <Description>TIRSAH-3-779-3 (Температура насоса Н-33.2). Некорректные данные 
-Евграфов В.В.
+Книжечкин В.В.
 23-74
     </Description>
     <Priority>Высокий</Priority>
   </OpTask>
   <OpTask>
-    <CodeSAP>7000063952</CodeSAP>
+    <CodeSAP>1235663952</CodeSAP>
     <TypeOp>УО</TypeOp>
     <Number>00-00173877</Number>
     <CreateDate>28.05.2018</CreateDate>
     <DeadlineDate>29.05.2018</DeadlineDate>
-    <PlaceCodeSAP>5682-MTBEX</PlaceCodeSAP>
+    <PlaceCodeSAP>1234-GFRTY</PlaceCodeSAP>
     <PlaceName>АВТ-6 Установка атмосферно-вакуумная</PlaceName>
-    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2</TechPlaceCodeSAP>
+    <TechPlaceCodeSAP>1234-GFRTY-KIPAT-TA437_2</TechPlaceCodeSAP>
     <TechPlaceName>TA437-2 Температура в Р-201 зона 2</TechPlaceName>
     <Autor>Иванов С.А.</Autor>
     <Performer>Петров В.В.</Performer>
     <Phone>30-75</Phone>
     <Description>TIRSAH-3-779-3 (Температура насоса Н-33.2). Некорректные данные 
-Евграфов В.В.
+Книжечкин В.В.
 23-74
     </Description>
     <Priority>Высокий</Priority>
   </OpTask>
   <OpTask>
-    <CodeSAP>7000063953</CodeSAP>
+    <CodeSAP>1235663953</CodeSAP>
     <TypeOp>УО</TypeOp>
     <Number>00-00173877</Number>
     <CreateDate>28.05.2018</CreateDate>
     <DeadlineDate>29.05.2018</DeadlineDate>
-    <PlaceCodeSAP>5682-MTBEX</PlaceCodeSAP>
+    <PlaceCodeSAP>1234-GFRTY</PlaceCodeSAP>
     <PlaceName>АВТ-6 Установка атмосферно-вакуумная</PlaceName>
-    <TechPlaceCodeSAP>5682-MTBEX-KIPAT-TA437_2</TechPlaceCodeSAP>
+    <TechPlaceCodeSAP>1234-GFRTY-KIPAT-TA437_2</TechPlaceCodeSAP>
     <TechPlaceName>TA437-2 Температура в Р-201 зона 2</TechPlaceName>
     <Autor>Иванов С.А.</Autor>
     <Performer>Петров В.В.</Performer>
     <Phone>30-75</Phone>
     <Description>TIRSAH-3-779-3 (Температура насоса Н-33.2). Некорректные данные 
-Евграфов В.В.
+Книжечкин В.В.
 23-74
     </Description>
     <Priority>Высокий</Priority>
