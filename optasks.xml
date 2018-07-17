@@ -57,8 +57,7 @@
     </Description>
     <Priority>Высокий</Priority>
   </OpTask>
-</OpTasks>
-<OpTask>
+  <OpTask>
     <CodeSAP>1235663954</CodeSAP>
     <TypeOp>УО</TypeOp>
     <Number>00-00173877</Number>
