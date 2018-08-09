@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tasks xmlns="http://gazprom-neft.ru/TOIR_ASUS" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                  <Task>
+                               <CodeSAP>4003461967</CodeSAP>
+                               <GroupNumber>00-017325</GroupNumber>
+                               <CreateDate>2018-07-10</CreateDate>
+                               <PlanDate>2018-07-26</PlanDate>
+                               <Autor>Фильчакова Виктория Дмитриевна</Autor>
+                               <Performer>Екименков Иван Александрович</Performer>
+                               <PlaceCodeSAP>5682-AVT03</PlaceCodeSAP>
+                               <PlaceName>Установка АВТ-3</PlaceName>
+                               <Sector>VIBRO</Sector>
+                               <TechPlaceSAP>5682-AVT03-CTRLS-VIBRO</TechPlaceSAP>
+                               <TechPlaceName>Вибродиагностика</TechPlaceName>
+                               <TypeOfWork>ТО2</TypeOfWork>
+                               <UnitSAP>000000006000015605</UnitSAP>
+                               <UnitName>Блок питания</UnitName>
+                               <CodeKTO>001098943</CodeKTO>
+                               <NameKTO>ТО Блока питания</NameKTO>
+                </Task>
+                <Task>
+                               <CodeSAP>4003461981</CodeSAP>
+                               <GroupNumber>00-017325</GroupNumber>
+                               <CreateDate>2018-07-10</CreateDate>
+                               <PlanDate>2018-07-26</PlanDate>
+                               <Autor>Фильчакова Виктория Дмитриевна</Autor>
+                               <Performer>Екименков Иван Александрович</Performer>
+                               <PlaceCodeSAP>5682-AVT03</PlaceCodeSAP>
+                               <PlaceName>Установка АВТ-3</PlaceName>
+                               <Sector>VIBRO</Sector>
+                               <TechPlaceSAP>5682-AVT03-CTRLS-VIBRO</TechPlaceSAP>
+                               <TechPlaceName>Вибродиагностика</TechPlaceName>
+                               <TypeOfWork>ТО2</TypeOfWork>
+                               <UnitSAP>000000006000015609</UnitSAP>
+                               <UnitName>Блок системный</UnitName>
+                               <CodeKTO>001098942</CodeKTO>
+                               <NameKTO>ТО Блок системн,колонки,kvm удлинитель</NameKTO>
+                </Task>
+</Tasks>
