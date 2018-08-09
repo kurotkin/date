@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KTO xmlns="http://gazprom-neft.ru/TOIR_ASUS" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <CodeKTO>001098942</CodeKTO>
+                <NameKTO>ТО Клапана регулирующего</NameKTO>
+                <Operations>
+                               <Number>1</Number>
+                               <Name>Внешний осмотр: проверка отсутствия механических повреждений, удаление загрязнений</Name>
+                               <WorkCategory>Слесарь 4 разряда</WorkCategory>
+                </Operations>
+                <Operations>
+                               <Number>2</Number>
+                               <Name>Проверка элементов взрывозащиты</Name>
+                               <WorkCategory>Слесарь 4 разряда</WorkCategory>
+                </Operations>
+                <Operations>
+                               <Number>3</Number>
+                               <Name>Проверка герметичности пневматических линий, устранения неплотностей</Name>
+                               <WorkCategory>Слесарь 4 разряда</WorkCategory>
+                </Operations>
+                <Operations>
+                               <Number>4</Number>
+                               <Name>Оформление результатов</Name>
+                               <WorkCategory>Слесарь 4 разряда</WorkCategory>
+                </Operations>
+</KTO>
